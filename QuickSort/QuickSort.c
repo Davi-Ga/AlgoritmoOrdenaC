@@ -13,7 +13,7 @@ void sorteiaVet(int n){
    srand( (unsigned)time(NULL) );
 
       for(i=0;i<n;i++){
-         milhao[i]=(rand()%1000);
+         milhao[i]=(rand());
       }
   
    t=clock();
@@ -29,7 +29,7 @@ int main(){
     sorteiaVet(1000);
     sorteiaVet(10000);
     sorteiaVet(100000);
-    //sorteiaVet(1000000);
+    sorteiaVet(1000000);
     
     system("pause");
     return 0;
