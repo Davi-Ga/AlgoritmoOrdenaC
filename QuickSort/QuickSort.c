@@ -26,10 +26,10 @@ void sorteiaVet(int n){
 
 int main(){
 
-    sorteiaVet(1000);
-    sorteiaVet(10000);
-    sorteiaVet(100000);
-    sorteiaVet(1000000);
+   sorteiaVet(1000);
+   sorteiaVet(10000);
+   sorteiaVet(100000);
+   sorteiaVet(1000000);
     
     system("pause");
     return 0;

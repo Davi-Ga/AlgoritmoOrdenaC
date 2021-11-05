@@ -19,8 +19,7 @@ void defineVet(int n){
    countingSort(milhao,n);
    t=clock()-t;
 
-	
-   printf("Para %d valores o tempo de execucao sera de %lf\n",n,((double)t)/((CLOCKS_PER_SEC/1000)));
+  printf("\nPara %d valores o tempo de execucao sera de %lf\n",n,((double)t)/((CLOCKS_PER_SEC/1000)));
 	free(milhao);
 	}
 
