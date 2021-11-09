@@ -25,7 +25,7 @@ Utilizou-se da criação de uma biblioteca externa com as funções de ordenaç�
 
 
 
-CountingSort com 1.000.000 é extremamente inviável, onde há um grande uso de memória e consequentemente um tempo maior de execução, superando todos os outros.
+QuickSort com 1.000.000 é extremamente inviável, onde há um grande uso de memória e consequentemente um tempo maior de execução, superando todos os outros.
 
 
 ## Tabela de Quantidade de Operações
@@ -41,7 +41,7 @@ CountingSort com 1.000.000 é extremamente inviável, onde há um grande uso de 
 
 
 
-Como foi dito o CountingSort é inviável com valores muito altos, por isso sua quanttidade de operações são de difícil noção, ainda mais por causa do uso recursivo da ordenação.
+Como foi dito o QuickSort é inviável com valores muito altos, por isso sua quanttidade de operações são de difícil noção, ainda mais por causa do uso recursivo da ordenação.
 
 
 ### :computer:Configuração do Notebook
