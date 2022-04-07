@@ -52,4 +52,4 @@ Como foi dito o QuickSort é inviável com valores muito altos, por isso sua qua
   :small_orange_diamond:AMD Radeon™ RX Vega 8  
   :small_orange_diamond:SSD 258 SX6000 Lite  
   
-Análise e algoritmos feito por Davi Galdino, estudante de Ciências da Computação no IFG
+Análise e algoritmos feito por Davi Galdino, estudante de Ciências da Computação no IFG 3ºPeríodo
